@@ -1,10 +1,10 @@
 ## 01-Structures.R
 # Code from 01-structures
 
-5 + 5
-4 - 1
-1 * 2
-4 ^ 2
+5 + 5 # Addition
+4 - 1 # Subtraction
+1 * 2 # Multiplication
+4 ^ 2 # Power
 
 a <- 1
 b <- 2
